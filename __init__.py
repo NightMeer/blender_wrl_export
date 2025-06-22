@@ -2,7 +2,7 @@
 bl_info = {
     "name": "Blender-WRL-Export",
     "author": "NightMeer",
-    "version": (21, 0, 0), # Bugfix: Use correct, existing API call for normals
+    "version": (22, 0, 0), # Bugfix: Use correct, existing API call for normals
     "blender": (4, 0, 0),
     "location": "Datei > Export > Blender WRL Export (.wrl)",
     "description": "VRML 2.0 Exporteur",
